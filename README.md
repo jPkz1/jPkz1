@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jPkz1
-- 👀 I’m interested in ... learning about the back end lenguages.
+- 👀 I’m interested in ... learning more about programming language.
 - 🌱 I’m currently learning ... Computer science in 2nd period
 - 💞️ I’m looking to collaborate on ... anything 
 - 📫 How to reach me ... joaopedro_caetano@yahoo.com.br
